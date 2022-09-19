@@ -5,19 +5,23 @@ background-color:rgb(144, 205, 208);
 
 .div1{
 margin: auto;
-width: 800px;
+width: 80%;
 }
 
 h1{
-font-weight: bold;
-  
+font-weight: bold; 
 }
 
 .img{
 display: block;
 margin-left: auto;
 margin-right: auto;
-width: 100%;
+width: 80%;
 padding: 15px;
-
 }
+
+.table{
+margin:auto;
+width:80%;
+}
+    
