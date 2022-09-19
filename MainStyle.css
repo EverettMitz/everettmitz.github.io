@@ -14,5 +14,10 @@ font-weight: bold;
 }
 
 .img{
-width: 100% ;
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 100%;
+padding: 15px;
+
 }
