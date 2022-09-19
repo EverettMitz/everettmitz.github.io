@@ -1,8 +1,11 @@
 body{
 background-color:rgb(144, 205, 208);
-width: 80opx;
+
+}
+.div1{
 margin:auto;
 width: 800px;
+
 }
 h1{
 font-weight: bold;
