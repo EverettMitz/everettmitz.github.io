@@ -17,6 +17,9 @@ h1{
    color: white;
    font-weight: bold; 
 }
+h2{
+   text-align: center;
+}
 
 .img{
    display: block;
@@ -47,6 +50,16 @@ h1{
    height:30%;
    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 
+}
+#img4{
+   margin:10px;
+   clear:both;
+   display: block;
+   margin-left: 25%;
+   margin-right: 25%;
+   width: 40%;
+   height:40%;
+   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 .table{
