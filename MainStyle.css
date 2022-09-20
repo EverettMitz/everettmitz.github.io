@@ -1,27 +1,27 @@
 body{
-background-color:rgb(144, 205, 208);
+   background-image: url("myBackground.jpg");
 
 }
 
 .div1{
-margin: auto;
-width: 80%;
+   margin: auto;
+   width: 80%;
 }
 
 h1{
-font-weight: bold; 
+   font-weight: bold; 
 }
 
 .img{
-display: block;
-margin-left: auto;
-margin-right: auto;
-width: 80%;
-padding: 15px;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 80%;
+   padding: 15px;
 }
 
 .table{
-margin:auto;
-width:80%;
+   margin:auto;
+   width:80%;
 }
     
