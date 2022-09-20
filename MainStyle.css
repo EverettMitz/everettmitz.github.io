@@ -23,6 +23,12 @@ h1{
    width:90%;
 }
 
+#img1{
+   float:left;
+   width:30%;
+   height:30%;
+}
+
 .table{
    margin: auto;
    width: 100%;
